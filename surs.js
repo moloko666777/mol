@@ -4240,7 +4240,7 @@ Lampa.Lang.add({
         uk: "Фільми, серіали або все разом"
     },
     surs_top_5_years: {
-        ru: "Топ за 5 лет",
+        ru: "Топ за 5 лет TEST",
         en: "Top for 5 years",
         uk: "Топ за 5 років"
     },
